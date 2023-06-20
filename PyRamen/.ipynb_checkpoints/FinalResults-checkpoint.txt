@@ -1,0 +1,60 @@
+Sales Analysis
+----------------------------
+Transaction Count: 74124
+Uncategorized Transactions: 341
+Sales Breakdown:
+1. spicy miso ramen
+  1. Count = 9238
+  2. Revnue = 110856.0
+  3. Cogs = 46190.0
+  4. Profit = 64666.0
+2. tori paitan ramen
+  1. Count = 9156
+  2. Revnue = 119028.0
+  3. Cogs = 54936.0
+  4. Profit = 64092.0
+3. truffle butter ramen
+  1. Count = 8982
+  2. Revnue = 125748.0
+  3. Cogs = 62874.0
+  4. Profit = 62874.0
+4. tonkotsu ramen
+  1. Count = 9288
+  2. Revnue = 120744.0
+  3. Cogs = 55728.0
+  4. Profit = 65016.0
+5. vegetarian spicy miso
+  1. Count = 9216
+  2. Revnue = 110592.0
+  3. Cogs = 46080.0
+  4. Profit = 64512.0
+6. shio ramen
+  1. Count = 9180
+  2. Revnue = 100980.0
+  3. Cogs = 45900.0
+  4. Profit = 55080.0
+7. miso crab ramen
+  1. Count = 8890
+  2. Revnue = 106680.0
+  3. Cogs = 53340.0
+  4. Profit = 53340.0
+8. nagomi shoyu
+  1. Count = 9132
+  2. Revnue = 100452.0
+  3. Cogs = 45660.0
+  4. Profit = 54792.0
+9. soft-shell miso crab ramen
+  1. Count = 9130
+  2. Revnue = 127820.0
+  3. Cogs = 63910.0
+  4. Profit = 63910.0
+10. burnt garlic tonkotsu ramen
+  1. Count = 9070
+  2. Revnue = 126980.0
+  3. Cogs = 54420.0
+  4. Profit = 72560.0
+11. vegetarian curry + king trumpet mushroom ramen
+  1. Count = 8824
+  2. Revnue = 114712.0
+  3. Cogs = 61768.0
+  4. Profit = 52944.0
